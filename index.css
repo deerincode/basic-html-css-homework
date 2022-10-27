@@ -1,0 +1,54 @@
+body{
+    display: flex;
+    flex-direction: column;
+    background-color: bisque;
+}
+
+
+h1 {
+    font-family: Arial;
+}
+
+p{
+    font-family: arial;
+}
+
+li{
+    font-family: arial;
+}
+
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(212, 40, 40);
+    padding: 3px;
+    
+}
+
+.nav-button{
+    color: rgb(231, 231, 243);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    max-height: 300px;
+    margin-right: 10px;
+}
+
+.main-body{
+    display: flex;
+    margin-top: 20px;
+}
+
+section{
+    margin-right: 30%;
+    margin-top: -15px;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.footer{
+    color: crimson;
+}
